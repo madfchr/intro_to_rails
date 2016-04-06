@@ -12,7 +12,6 @@ Picture.create!(
 
 Picture.create!(
   :title => "Last exam",
-  :artist => "Ariane Deschenes Foucher",
   :url => "http://41.media.tumblr.com/35236d1083b57343d9af236fc9c58b7a/tumblr_o0j08ym1zg1uv9ox1o1_1280.jpg"
 )
 
